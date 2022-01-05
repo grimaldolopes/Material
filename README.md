@@ -11,3 +11,6 @@ Informações sobre Ferramentas da área de dados.
 ## Shell Script LINUX
 ## Database – Oracle, Mysql, Postgresql;
 ## Big Data – Database Search e Engine – Elasticsearch, Logstash, Kibana, DSL (Domain Specific Language), Spark, Databricks, Pyspark, NiFi.
+
+# Material detalhado
+https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA
