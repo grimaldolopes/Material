@@ -1,6 +1,6 @@
 # Material
 Informações sobre Ferramentas da área de dados. 
-É possível aqui encontrar informações sobre como funciona cada ferramenta e comandos inicais de trabalho
+É possível aqui encontrar informações sobre como funciona cada ferramenta e comandos iniciais para voê começar a operacionalizar
 
 # Quais são as ferramentas que posso trabalhar na área de dados.
 
