@@ -15,5 +15,19 @@ Informações sobre ferramentas da área de dados.
 # Material detalhado
 https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA
 
-#Material sobre APACHE HOP
+# Material sobre APACHE HOP
 https://github.com/grimaldolopes/Material-APACHE-HOP
+
+# Material sobre DATABRICKS
+https://github.com/grimaldolopes/Material-Databricks
+
+# Material sobre TALEND
+https://github.com/grimaldolopes/Material-Talend
+
+# Material sobre PYSPARK
+https://github.com/grimaldolopes/Material-PySpark
+
+# Material sobre ELASTICSEARCH
+
+https://github.com/grimaldolopes/Material-Elastic-Search
+
