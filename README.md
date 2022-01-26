@@ -14,3 +14,6 @@ Informações sobre ferramentas da área de dados.
 
 # Material detalhado
 https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA
+
+#Material sobre APACHE HOP
+https://github.com/grimaldolopes/Material-APACHE-HOP
