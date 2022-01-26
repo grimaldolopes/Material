@@ -34,4 +34,5 @@ https://github.com/grimaldolopes/Material-Elastic-Search
 # Material sobre NiFi
 https://github.com/grimaldolopes/Material-NiFi
 
-
+# Material sobre Power BI
+https://github.com/grimaldolopes/Material-PowerBI
