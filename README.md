@@ -31,3 +31,7 @@ https://github.com/grimaldolopes/Material-PySpark
 
 https://github.com/grimaldolopes/Material-Elastic-Search
 
+# Material sobre NiFi
+https://github.com/grimaldolopes/Material-NiFi
+
+
