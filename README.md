@@ -4,7 +4,7 @@ Informações sobre ferramentas da área de dados.
 
 # Quais são as ferramentas que posso trabalhar na área de dados.
 
-## Data Discovery – Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization
+## Data Discovery – METABASE, Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization
 ## Business Intelligence – Data Modeling For Dw– Star Schema/Snow Flake, Sql, Olap, Pl/Sql
 ## Data Integration – Talend, Oracle Warehouse Builder, Apache HOP
 ## Machine Learning – Orange Data Science, Data Mining – Weka; R Language, R Markdown, R GGPLOT2
