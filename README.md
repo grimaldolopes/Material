@@ -40,5 +40,5 @@ https://github.com/grimaldolopes/Material-PowerBI
 # Material sobre METABASE
 https://github.com/grimaldolopes/METABASE
 
-## Sempre acesse esta página, pois teremos mais material disponibilizado
+## Sempre acesse esta página, colocarei mais material
 
