@@ -36,3 +36,9 @@ https://github.com/grimaldolopes/Material-NiFi
 
 # Material sobre Power BI
 https://github.com/grimaldolopes/Material-PowerBI
+
+# Material sobre METABASE
+https://github.com/grimaldolopes/METABASE
+
+#Sempre esteja vendo esta página, pois teremos mais material disponibilizado
+
