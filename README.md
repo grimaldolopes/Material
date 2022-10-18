@@ -41,7 +41,7 @@ https://github.com/grimaldolopes/Material-PowerBI
 https://github.com/grimaldolopes/METABASE
 
 # Material sobre Databricks Delta Lake
-https://github.com/grimaldolopes/METABASE
+https://github.com/grimaldolopes/materialdatabricksdeltalake
 
 ## Sempre acesse esta página, colocarei mais material
 
