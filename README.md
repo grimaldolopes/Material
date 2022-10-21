@@ -43,5 +43,8 @@ https://github.com/grimaldolopes/METABASE
 # Material sobre Databricks Delta Lake
 https://github.com/grimaldolopes/materialdatabricksdeltalake
 
+# Banners e Infográficos sobre a área de Dados
+https://github.com/grimaldolopes/Banners
+
 ## Sempre acesse esta página, colocarei mais material
 
