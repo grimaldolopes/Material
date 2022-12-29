@@ -46,5 +46,8 @@ https://github.com/grimaldolopes/materialdatabricksdeltalake
 # Banners e Infográficos sobre a área de Dados
 https://github.com/grimaldolopes/Banners
 
+# Materiais para levantamento de dados com os gestores e com definição das origens de dados
+https://github.com/grimaldolopes/LevantamentoDados
+
 ## Sempre acesse esta página, colocarei mais material
 
