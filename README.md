@@ -49,5 +49,8 @@ https://github.com/grimaldolopes/Banners
 # Materiais para levantamento de dados com os gestores e com definição das origens de dados
 https://github.com/grimaldolopes/LevantamentoDados
 
+# Material sobre Alteryx TRIFACTA
+https://github.com/grimaldolopes/Alteryxtrifacta
+
 ## Sempre acesse esta página, colocarei mais material
 
