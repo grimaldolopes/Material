@@ -52,5 +52,8 @@ https://github.com/grimaldolopes/LevantamentoDados
 # Material sobre Alteryx TRIFACTA
 https://github.com/grimaldolopes/Alteryxtrifacta
 
+# Material sobre Preset APACHE Superset
+https://github.com/grimaldolopes/Material-APACHE-Superset
+
 ## Sempre acesse esta página, colocarei mais material
 
