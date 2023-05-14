@@ -12,6 +12,9 @@ Informações sobre ferramentas da área de dados.
 ## Database – Oracle, Mysql, Postgresql
 ## Big Data – Database Search e Engine – Elasticsearch, Logstash, Kibana, DSL (Domain Specific Language), Spark, Databricks, Pyspark, NiFi
 
+# Material sobre Penato PDI - integração e Ingestão de dados
+https://github.com/grimaldolopes/PENTAHOPDI
+
 # Material detalhado
 https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA
 
