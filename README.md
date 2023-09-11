@@ -5,6 +5,7 @@ Informações sobre ferramentas da área de dados.
 # Quais são as ferramentas que posso trabalhar na área de dados.
 
 ## Data Discovery – METABASE, Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization
+## Data lake - Dremio
 ## Business Intelligence – Data Modeling For Dw– Star Schema/Snow Flake, Sql, Olap, Pl/Sql
 ## Data Integration – Pentaho PDI, Talend, Oracle Warehouse Builder, Apache HOP
 ## Machine Learning – Orange Data Science, Data Mining – Weka; R Language, R Markdown, R GGPLOT2
@@ -14,6 +15,9 @@ Informações sobre ferramentas da área de dados.
 
 # Material detalhado
 https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA
+
+# Dremio - Data lake
+https://github.com/grimaldolopes/Material-Dremio
 
 # Material sobre PENTAHO PDI - Integração e Ingestão de dados
 https://github.com/grimaldolopes/PENTAHOPDI
